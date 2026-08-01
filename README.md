@@ -1,2 +1,4 @@
-# network-test-sh-40
+# Network Test Sh 40
+
 Ping external server address links in Bash.
+
